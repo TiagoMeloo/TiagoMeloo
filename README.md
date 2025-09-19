@@ -2,10 +2,9 @@
 
 
 - 🧑‍🎓 Cursando | Analise e Desenvolvimento de Sistemas - ADS.
-- 🌱 Estudando | Javascript.
-- 🧑‍💻 Em busca da primeira oportunidade de estágio.
-- 💬 Ask me about ...
-- ⚡ Curiosidades | Gosto de malhar, Jogar e sair com os amigos.
+- 🧑‍💻 Estudando | Javascript.
+- 🌱 Estado atual | Em busca da primeira oportunidade de estágio.
+- 🧐 Curiosidades | Gosto de malhar, Jogar e sair com os amigos.
 - 👾 Principais tecnologias que ultilizo.
   
     <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagomeloo&layout=compact&show_icons=true&theme=transparent)
 
-<a href="(https://discordapp.com/users/603982170838532126)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
 <a href = "mailto:tiago.melo.0772@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
