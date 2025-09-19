@@ -14,7 +14,10 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagomeloo&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagomeloo&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagomeloo&show_icons=true&theme=transparent) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagomeloo&layout=compact&show_icons=true&theme=transparent)
 
 <a href="(https://discordapp.com/users/603982170838532126)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:tiago.melo.0772@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
