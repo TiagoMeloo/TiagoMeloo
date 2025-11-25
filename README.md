@@ -13,9 +13,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagomeloo&show_icons=true&theme=transparent) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoMeloo&show_icons=true&theme=transparent) 
 
-https://github-readme-stats.vercel.app/api?username=TiagoMeloo&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiagomeloo&how_icons=true&theme=transparent)
 
