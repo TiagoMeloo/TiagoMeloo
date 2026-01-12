@@ -5,7 +5,7 @@
 - 🧑‍💻 Estudando | Javascript.
 - 🌱 Estado atual | Em busca da primeira oportunidade de estágio.
 - 🧐 Curiosidades | Gosto de malhar, Jogar e sair com os amigos.
-- 👾 Principais tecnologias que ultilizo.
+- 👾 Principais tecnologias que utilizo.
   
     <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
